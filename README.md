@@ -23,8 +23,8 @@ All comments and issues welcome.
 ## Current features
 
 * 🩸 [Player damage](https://github.com/Hoax2/tac-ui/wiki/Player-damage)
+* 🔫 [Firearm & Ammo status](https://github.com/Hoax2/tacUI/wiki/Firearm-&-Ammo-status)
 
 ### Coming soon
 
-* 🔫 Firearm & Ammunition status
 * 🏃‍♂️ Player stance/positions icons
